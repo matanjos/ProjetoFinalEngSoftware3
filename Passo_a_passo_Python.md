@@ -37,7 +37,8 @@ O caracter cerquilha dentro de uma string literal é apenas uma cerquilha.
 ### Variáveis
 
 As variáveis são utilizadas para armazenar(memorizar) valores que serão adicionados através das linhas de instruções no seu código, armazenando este valor para facilitar o seu uso posteriormente.  
-Em Python, não existe um comando para declarar uma variável. Basta atribuir um nome e um valor a ela, tal como no exemplo abaixo:
+Em Python, não existe um comando para declarar uma variável. Basta atribuir um nome e um valor a ela, tal como no exemplo abaixo:  
+
 VarNum  = 5  
 VarNome = "Nome_de_Alguém"  
 Como exposto acima, para atribuir um valor númerico basta colocá-lo e para adicionar um "texto"(que no exemplo seria o nome de alguém), basta colocar o texto entre aspas simples ou duplas(' '  ou "  " ).  
