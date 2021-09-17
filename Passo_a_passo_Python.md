@@ -45,7 +45,7 @@ VarNome = "Nome_de_Alguém"
 Como exposto acima, para atribuir um valor númerico basta inseri-lo diretamente e para adicionar um "texto"(que no exemplo seria o nome de alguém), basta colocar o texto entre aspas simples ou duplas(' '  ou "  " ).  
 Recomenda-se a escolha do nome da variável de tal forma que seja bastante clara a intenção do seu uso para facilitar o entedimento do seu algoritmo. Além disso, Python é uma linguagem "Case Sensitive", que significa dizer que o "Python" diferencia letras maiúsculas de minúsculas. Ou seja, uma variável chamada 'a' e outra chamada 'A' são variáveis diferentes.  
   
- Para mais detalhes, o link abaixo contém exemplos e excessões sobre o uso de variáveis em Python :  
+ Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de variáveis em Python :  
  [Utilização de Variáveis em Python](https://www.explorandoti.com.br/o-que-sao-variaveis-e-como-funcionam-no-python-3/)  
    
      
@@ -58,6 +58,10 @@ def NOME( PARAMETROS ):
     COMANDOS  
 ```
 
+Utiliza-se a palavra reservada "def" antes do nome da sua função para especificar que trata-se de uma função. Em seguida e entre parênteses, nomeia-se os parâmetros que essa função receberá ao ser chamada, que serão os valores que o usuário(código) "envia" para a função ao chama-lá.  
+  
+Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de funções em Python :  
+[Utilização de Funções em Python](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)  
 
 
 
