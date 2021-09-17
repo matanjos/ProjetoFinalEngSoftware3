@@ -41,7 +41,7 @@ Em Python, não existe um comando para declarar uma variável. Basta atribuir um
 
 VarNum  = 5  
 VarNome = "Nome_de_Alguém"  
-Como exposto acima, para atribuir um valor númerico basta colocá-lo e para adicionar um "texto"(que no exemplo seria o nome de alguém), basta colocar o texto entre aspas simples ou duplas(' '  ou "  " ).  
+Como exposto acima, para atribuir um valor númerico basta inseri-lo diretamente e para adicionar um "texto"(que no exemplo seria o nome de alguém), basta colocar o texto entre aspas simples ou duplas(' '  ou "  " ).  
 Recomenda-se a escolha do nome da variável de tal forma que seja bastante clara a intenção do seu uso para facilitar o entedimento do seu algoritmo. Além disso, Python é uma linguagem "Case Sensitive", que significa dizer que o compilador diferencia letras maiúsculas de minúsculas. Ou seja, uma variável chamada 'a' e outra chamada'A' são variáveis diferentes.
 
 
