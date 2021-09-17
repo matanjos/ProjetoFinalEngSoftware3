@@ -6,7 +6,7 @@ Neste passo a passo você aprenderá o básico sobre Python. Ele está dividido 
 1. [Instalação](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#instala%C3%A7%C3%A3o)  
 2. [Configuração](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#configura%C3%A7%C3%A3o)  
 3. [Hello world](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#hello-world)  
-4. [Comentários](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#coment%C3%A1rios)  
+4. Comentários  
 5. Variáveis  
 6. Funções  
 7. Comando condicional  
@@ -31,8 +31,19 @@ Mac: [Configurar Pyhton no Mac](https://docs.python.org/pt-br/3/using/mac.html?h
 
 Os comentários em Python começam com o caractere cerquilha(jogo da velha) ‘#’ e estende até o final da linha. 
 Um comentário pode aparecer no inicio da linha ou após espaço em branco ou código, mas não dentro de uma string literal. 
-O caracter cerquilha dentro de uma string literal é apenas uma cerquilha. Os comentários servem para explicar o código, ajudando o próprio desenvolvedor a lembrar do que se trata a função, como também outros desenvolvedores 
-a darem manutenção no código.
+O caracter cerquilha dentro de uma string literal é apenas uma cerquilha.  
+
+
+### Variáveis
+
+As variáveis são utilizadas para armazenar(memorizar) valores que serão adicionados através das linhas de instruções no seu código, armazenando este valor para facilitar o seu uso posteriormente.
+Em Python, não existe um comando para declarar uma variável. Basta atribuir um nome e um valor a ela, tal como no exemplo abaixo:
+VarNum  = 5
+VarNome = "Nome_de_Alguém"
+Como exposto acima, para atribuir um valor númerico basta colocá-lo e para adicionar um "texto"(que no exemplo seria o nome de alguém), basta colocar o texto entre aspas simples ou duplas(' '  ou "  " ).
+Recomenda-se a escolha do nome da variável de tal forma que seja bastante clara a intenção do seu uso para facilitar o entedimento do seu algoritmo. Além disso, Python é uma linguagem "Case Sensitive", que significa dizer que o compilador diferencia letras maiúsculas de minúsculas. Ou seja, uma variável chamada 'a' e outra chamada'A' são variáveis diferentes.
+
+
 
 
 
