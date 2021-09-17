@@ -51,7 +51,7 @@ Recomenda-se a escolha do nome da variável de tal forma que seja bastante clara
      
  ### Funções  
    
- Em Python,uma função é uma sequência de comandos que executa uma tarefa quando é utilizada(chamada) no código. As funções possuem nomes e auxiliam o desenvolvedor a organizar e estruturar o seu código de formar organizada e intuitiva. Observe o exemplo abaixo de como declarar uma função:  
+ Em Python,uma função é uma sequência de comandos que executa uma tarefa quando é utilizada(chamada) no código. As funções possuem nomes e auxiliam o desenvolvedor a estruturar o seu código de formar organizada e intuitiva. Observe o exemplo abaixo de como declarar uma função:  
    
 ```python
 def NOME( PARAMETROS ):
