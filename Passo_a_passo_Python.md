@@ -45,7 +45,13 @@ Como exposto acima, para atribuir um valor númerico basta inseri-lo diretamente
 Recomenda-se a escolha do nome da variável de tal forma que seja bastante clara a intenção do seu uso para facilitar o entedimento do seu algoritmo. Além disso, Python é uma linguagem "Case Sensitive", que significa dizer que o "Python" diferencia letras maiúsculas de minúsculas. Ou seja, uma variável chamada 'a' e outra chamada 'A' são variáveis diferentes.  
   
  Para mais detalhes, o link abaixo contém exemplos e excessões sobre o uso de variáveis em Python :  
- [Utilização de Variáveis em Python](https://www.explorandoti.com.br/o-que-sao-variaveis-e-como-funcionam-no-python-3/)
+ [Utilização de Variáveis em Python](https://www.explorandoti.com.br/o-que-sao-variaveis-e-como-funcionam-no-python-3/)  
+   
+     
+ ###Funções  
+   
+ Em Python,uma função é uma sequência de comandos que executa uma tarefa quando é utilizada(chamada) no código. As funções possuem nomes e auxiliam o desenvolvedor a organizar e estruturar o seu código de formar organizada e intuitiva. Observe o exemplo abaixo de como declarar uma função:  
+   
 
 
 
