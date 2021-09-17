@@ -31,8 +31,7 @@ Mac: [Configurar Pyhton no Mac](https://docs.python.org/pt-br/3/using/mac.html?h
 
 Os comentários em Python começam com o caractere cerquilha(jogo da velha) ‘#’ e estende até o final da linha. 
 Um comentário pode aparecer no inicio da linha ou após espaço em branco ou código, mas não dentro de uma string literal. 
-O caracter cerquilha dentro de uma string literal é apenas uma cerquilha.  
-Os comentários servem para explicar o código, ajudando o próprio desenvolvedor a lembrar do que se trata a função, como também outros desenvolvedores 
+O caracter cerquilha dentro de uma string literal é apenas uma cerquilha. Os comentários servem para explicar o código, ajudando o próprio desenvolvedor a lembrar do que se trata a função, como também outros desenvolvedores 
 a darem manutenção no código.
 
 
