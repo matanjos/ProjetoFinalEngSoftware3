@@ -1,7 +1,7 @@
 ### Loops em Python
 
-#### Comando for  
-O comando for em Python itera sobre os itens de qualquer sequência (seja uma lista ou uma string), na ordem que aparecem na sequência diferente do que costuma ser em C ( que permite ao usuário definir o passo de iteração e a condição de parada ou Pascal ( que sempre itera sobre uma progressão aritmética de números). Por exemplo, o código abaixo exibe os elementos da lista em ordem.  
+#### Comando FOR  
+O comando for em Python itera sobre os itens de qualquer sequência (seja uma lista ou uma string), na ordem que aparecem na sequência diferente do que costuma ser em C ( que permite ao usuário definir o passo de iteração e a condição de parada) ou Pascal ( que sempre itera sobre uma progressão aritmética de números). Por exemplo, o código abaixo exibe os elementos da lista em ordem.  
 ```python  
 List_alunos = ['Joao', 'Maria', 'Jose']
 for name in List_alunos:
