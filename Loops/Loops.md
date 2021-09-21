@@ -26,6 +26,6 @@ while a < 10:
 ```  
 Abaixo temos o Exemplo do funcionamento do while:
 
-![while e if e else](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Controle%20de%20fluxo/while%20if%20else.jpg)
+![while e if e else](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/w3.gif)
 
 Para mais exemplos, acesse: [Exemplos de Códigos](https://github.com/matanjos/ProjetoFinalEngSoftware3/tree/main/c%C3%B3digos)
