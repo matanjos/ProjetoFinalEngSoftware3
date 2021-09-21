@@ -4,7 +4,7 @@
   Essas condicionais são palavras chaves(reservadas) do Python utilizadas para indicar uma execução condicional no algoritmo,permitindo selecionar quais blocos de códigos serão executados e quais não serão a depender das condições existentes. O fluxograma em alto nível funciona da seguinte forma:  
   A condição definida é verdadeira? Se sim, execute o bloco de código abaixo. Se não, não execute o bloco de código abaixo e execute a alternativa predefinida,caso exista.  
     
-  Observe o exemplo a seguir :
+  Observe os exemplos a seguir :
   ```python
 Python_Case_Sensitive = True  
   
