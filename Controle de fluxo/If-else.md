@@ -15,11 +15,12 @@ else:
 ```
   
 Observação : Não é necessário fazer "if Pytho_Case_Sensitive == True" , para digitar menos, escreva apenas "if Python_case_Sensitive".  
-Observação 2: If verifica se a condição definida é verdadeira ou falso. Portanto, é possível fazer,por exemplo :  
+Observação 2: O comando "If" verifica se a condição definida é verdadeira ou falso. Portanto, é possível fazer,por exemplo :  
   ```python
 VarCondicao = "Texto"  
 if VarCondicao == "Texto":  
   print("Python é case sensitive.")
 else:
   print("Python não é case sensitive.")
-```
+```  
+De forma similar, além de uma string, é possível comparar valores ou até mesmo variáveis diretamente.
