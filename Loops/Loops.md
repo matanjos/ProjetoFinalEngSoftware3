@@ -24,4 +24,8 @@ while a < 10:
   a = a + 1  
   print(a)   
 ```  
+Abaixo temos o Exemplo do funcionamento do while:
+
+![while e if e else](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Controle%20de%20fluxo/while%20if%20else.jpg)
+
 Para mais exemplos, acesse: [Exemplos de Códigos](https://github.com/matanjos/ProjetoFinalEngSoftware3/tree/main/c%C3%B3digos)
