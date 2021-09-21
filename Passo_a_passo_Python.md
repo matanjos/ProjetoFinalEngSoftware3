@@ -51,7 +51,18 @@ def NOME( PARAMETROS ):
 Utiliza-se a palavra reservada "def" antes do nome da sua função para especificar que trata-se de uma função. Em seguida e entre parênteses, nomeia-se os parâmetros que essa função receberá ao ser chamada, que serão os valores que o usuário(código) "envia" para a função ao chama-lá.  
   
 Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de funções em Python :  
-[Utilização de Funções em Python](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)  
+[Utilização de Funções em Python](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)   
+
+### Comando condicional  
+
+Um comando condicional controla o fluxo do código ao avaliar uma condição definida pelo desenvolvedor. O funcionamento de um comando condicional em Python
+é explicado de forma mais detalhada em:  
+
+### Loops  
+
+Um Loop é uma instrução que permite a execução repetida de uma sequência de comandos internos ao loop. A construção de um loop em Python é explicada de forma mais detalhada 
+em: 
+
 
 
 
