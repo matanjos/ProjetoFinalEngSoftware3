@@ -8,7 +8,7 @@
   ```python
 Python_Case_Sensitive = True  
   
-if Pytho_Case_Sensitive == True:  
+if Python_Case_Sensitive == True:  
   print("Python é case sensitive.")
 else:
   print("Python não é case sensitive.")
