@@ -14,7 +14,7 @@ Neste passo a passo você aprenderá o básico sobre Python. Ele está dividido 
 
 ### Instalação  
 
-O Python pode ser instalado em vários sistemas operacionais. Veja como instalar no seu sistema operacional em: [Instalação do Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Instala%C3%A7%C3%A3o/Instala%C3%A7%C3%A3o.md)
+O Python pode ser instalado em vários sistemas operacionais. Veja como instalar o Python no seu sistema operacional em: [Instalação do Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Instala%C3%A7%C3%A3o/Instala%C3%A7%C3%A3o.md)
  
 
 ### Configuração  
