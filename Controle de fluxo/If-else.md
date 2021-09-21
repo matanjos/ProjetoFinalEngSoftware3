@@ -23,6 +23,9 @@ if VarCondicao == "Texto":
 else:
    print("Python não é case sensitive.")
 ```  
+
+![Alt Text] (https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Controle%20de%20fluxo/while%20if%20else.jpg)
+
 De forma similar, além de uma string, é possível comparar valores ou até mesmo variáveis diretamente.  
   
   Para mais informações, acesse o link abaixo :  
