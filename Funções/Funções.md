@@ -14,7 +14,7 @@ def NOME( PARAMETROS ):
   
   ```python
 def hello( meu_nome ):
-    print('Ola',meu_nome)  
+      print('Ola',meu_nome)  
 ```
   
 Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de funções em Python :  
