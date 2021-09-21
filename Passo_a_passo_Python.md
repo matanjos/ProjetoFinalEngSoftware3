@@ -14,24 +14,19 @@ Neste passo a passo você aprenderá o básico sobre Python. Ele está dividido 
 
 ### Instalação  
 
-Windows: [Pyhton no Windows](https://docs.python.org/pt-br/3/using/windows.html#the-full-installer)  
-Linux: [Pyhton no Linux](https://docs.python.org/pt-br/3/using/unix.html?highlight=linux#getting-and-installing-the-latest-version-of-python)  
-Mac: [Pyhton no Mac](https://docs.python.org/pt-br/3/using/mac.html?highlight=mac#getting-and-installing-macpython)  
+O Python pode ser instalado em vários sistemas operacionais. Veja como instalar no seu sistema operacional em: [Instalação do Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Instala%C3%A7%C3%A3o/Instala%C3%A7%C3%A3o.md)
+ 
 
 ### Configuração  
 
-Windows: [Configurar Pyhton no Windows](https://docs.python.org/pt-br/3/using/windows.html#configuring-python)  
-Linux: [Configurar Pyhton no Linux](https://docs.python.org/pt-br/3/using/unix.html?highlight=linux#getting-and-installing-the-latest-version-of-python)  
-Mac: [Configurar Pyhton no Mac](https://docs.python.org/pt-br/3/using/mac.html?highlight=mac#getting-and-installing-macpython)  
+Após realizar a instalação é necessário realizar a configuração do Python. Veja como fazer isso em: [Configuração do Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/edit/main/Configura%C3%A7%C3%A3o/Configura%C3%A7%C3%A3o.md)
 
 ### Hello world  
 
 
 ### Comentários  
 
-Os comentários em Python começam com o caractere cerquilha(jogo da velha) ‘#’ e estende até o final da linha. 
-Um comentário pode aparecer no inicio da linha ou após espaço em branco ou código, mas não dentro de uma string literal. 
-O caracter cerquilha dentro de uma string literal é apenas uma cerquilha.  
+Os comentários servem para o desenvolvedor explicar o funcionamento do código. Desta forma, ajudando o próprio desenvolvedor a lembrar do que se trata determinado trecho de código, como também outros desenvolvedores a relizarem manutenção no código. Veja como realizar um comentário em Python em: [Comentários em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Coment%C3%A1rios/Coment%C3%A1rios.md)
 
 
 ### Variáveis
