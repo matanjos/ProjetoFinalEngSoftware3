@@ -24,12 +24,13 @@ O tempo de vida de uma variável e onde ela é acessível depende do local que e
 
 #### Escopo local
 
-Um variável declarada dentro de uma função tem escopo local. Isso significa que ela só existe quando a função é chamada e ao término da função ela é destruída, não sendo possível acessá-la em outras parte do programa. Toda vez que a função é chamada é criada uma nova variável. Essa variável também é acessível a outros módulos nos quais importe o módulo que ela foi definida. Uma utilidade das variávels globais é armazenar valores constantes para serem acessados por funções.
-
-Deve-se ter muito cuidade ao manipular variáveis globais, pois se for atribuído um valor para uma variável global dentro de função, na verdade se estará criando é uma variável local com o mesmo nome.
+Um variável declarada dentro de uma função tem escopo local. Isso significa que ela só existe quando a função é chamada e ao término da função ela é destruída, não sendo possível acessá-la em outras parte do programa. Toda vez que a função é chamada uma nova variável é criada.
 
 #### Escopo global
 
-Uma variável com escopo global é declara fora das funções e pode ser acessada em todos os módulos onde ela é definida.
+Uma variável com escopo global é declarada fora das funções e pode ser acessada em todos os módulos onde ela é definida. Essa variável também é acessível a outros módulos nos quais importe o módulo que ela foi definida. Uma utilidade das variávels globais é armazenar valores constantes para serem acessados por funções.
+
+Deve-se ter muito cuidado ao manipular essa variáveis, pois se for atribuído um valor para uma variável global dentro de uma função, na verdade se estará criando é uma variável local com o mesmo nome.
+
 Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de variáveis em Python :  
 [Utilização de Variáveis em Python](https://www.explorandoti.com.br/o-que-sao-variaveis-e-como-funcionam-no-python-3/)  
