@@ -13,7 +13,10 @@ Para iterar sobre sequências numéricas, é possível usar a função range() q
 for i in range(10):
   print(i)  
 ```  
-É possível iniciar o intervalo com outro número, ou alterar a razão da progressão (inclusive com passo negativo).  
+É possível iniciar o intervalo com outro número, ou alterar a razão da progressão (inclusive com passo negativo). 
+
+Abaixo temos um exemplo do funcionamento do for:
+![for](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/Loops.md)
 
 #### Comando while  
 
@@ -26,6 +29,6 @@ while a < 10:
 ```  
 Abaixo temos o Exemplo do funcionamento do while:
 
-![while e if e else](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/w3.gif)
+![while](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/w3.gif)
 
 Para mais exemplos, acesse: [Exemplos de Códigos](https://github.com/matanjos/ProjetoFinalEngSoftware3/tree/main/c%C3%B3digos)
