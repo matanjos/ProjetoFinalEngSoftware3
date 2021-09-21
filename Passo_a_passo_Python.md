@@ -56,12 +56,12 @@ Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de f
 ### Comando condicional  
 
 Um comando condicional controla o fluxo do código ao avaliar uma condição definida pelo desenvolvedor. O funcionamento de um comando condicional em Python
-é explicado de forma mais detalhada em:  
+é explicado de forma mais detalhada em: [Comando condicional](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Controle%20de%20fluxo/If-else.md)  
 
 ### Loops  
 
 Um Loop é uma instrução que permite a execução repetida de uma sequência de comandos internos ao loop. A construção de um loop em Python é explicada de forma mais detalhada 
-em: 
+em: [Loops](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/Loops.md)
 
 
 
