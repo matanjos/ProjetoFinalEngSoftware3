@@ -10,7 +10,7 @@ def NOME( PARAMETROS ):
    
   É possível atribuir qualquer nome para sua função, desde que este nome não seja uma palavra reservada e ela siga a regra de identificadores(caracteres) válidos.  
   
-  A função exemplo a seguir imprime na tela a string(texto) pre definida, variando apenas uma parte do texto que é dependente do parâmetro(meu_nome) recebido :  
+  A função exemplo a seguir imprime na tela a string(texto) predefinida, variando apenas uma parte do texto que é dependente do parâmetro(meu_nome) recebido :  
   
   ```python
 def hello( meu_nome ):
