@@ -26,7 +26,7 @@ Após realizar a instalação é necessário realizar a configuração do Python
 
 ### Comentários  
 
-Os comentários servem para o desenvolvedor explicar o funcionamento do código. Desta forma, ajudando o próprio desenvolvedor a lembrar do que se trata determinado trecho de código, como também outros desenvolvedores a relizarem manutenção no código. Veja como realizar um comentário em Python em: [Comentários em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Coment%C3%A1rios/Coment%C3%A1rios.md)
+Os comentários servem para o desenvolvedor explicar o funcionamento do código. Desta forma, ajudando o próprio desenvolvedor a lembrar do que se trata determinado trecho de código, como também outros desenvolvedores a realizarem manutenção no código. Veja como realizar um comentário em Python em: [Comentários em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Coment%C3%A1rios/Coment%C3%A1rios.md)
 
 
 ### Variáveis
