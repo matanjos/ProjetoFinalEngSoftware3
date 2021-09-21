@@ -23,4 +23,7 @@ if VarCondicao == "Texto":
 else:
    print("Python não é case sensitive.")
 ```  
-De forma similar, além de uma string, é possível comparar valores ou até mesmo variáveis diretamente.
+De forma similar, além de uma string, é possível comparar valores ou até mesmo variáveis diretamente.  
+  
+  Para mais informações, acesse o link abaixo :  
+  [Fluxo de Controle em Python](https://algoritmosempython.com.br/cursos/programacao-python/fluxo-controle/)
