@@ -7,7 +7,7 @@ Neste passo a passo você aprenderá o básico sobre Python. Ele está dividido 
 2. [Configuração](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#configura%C3%A7%C3%A3o)  
 3. [Hello world](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#hello-world)  
 4. [Comentários](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#coment%C3%A1rios)  
-5. Variáveis  
+5. [Variáveis](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#vari%C3%A1veis)  
 6. Funções  
 7. Comando condicional  
 8. Loops
