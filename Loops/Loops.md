@@ -16,7 +16,7 @@ for i in range(10):
 É possível iniciar o intervalo com outro número, ou alterar a razão da progressão (inclusive com passo negativo). 
 
 Abaixo temos um exemplo do funcionamento do for:
-![for](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/Loops.md)
+![for](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/py1m2_loops.gif)
 
 #### Comando while  
 
