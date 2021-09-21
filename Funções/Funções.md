@@ -28,7 +28,7 @@ def calcular_pagamento(qtd_horas, valor_hora):
     h_excd = horas - 40
     salario = 40*taxa+(h_excd*(1.5*taxa))
   return salario  
-```
+   ```
   
 Para mais detalhes, o link abaixo contém exemplos e exceções sobre o uso de funções em Python :  
 [Utilização de Funções em Python](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)
