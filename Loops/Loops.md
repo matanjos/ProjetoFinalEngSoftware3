@@ -21,7 +21,7 @@ O laço de repetição while executa enquanto a condição permanece verdadeira.
 ```python  
 a = 0
 while a < 10:  
-  a = a +1  
+  a = a + 1  
   print(a)   
 ```  
 Para mais exemplos, acesse: [Exemplos de Códigos](https://github.com/matanjos/ProjetoFinalEngSoftware3/tree/main/c%C3%B3digos)
