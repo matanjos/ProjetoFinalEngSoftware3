@@ -19,8 +19,8 @@ Observação 2: O comando "If" verifica se a condição definida é verdadeira o
   ```python
 VarCondicao = "Texto"  
 if VarCondicao == "Texto":  
-  print("Python é case sensitive.")
+   print("Python é case sensitive.")
 else:
-  print("Python não é case sensitive.")
+   print("Python não é case sensitive.")
 ```  
 De forma similar, além de uma string, é possível comparar valores ou até mesmo variáveis diretamente.
