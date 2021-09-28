@@ -1,11 +1,7 @@
-def fib(n):
-	if n==0:
+def fib(n):		#Definição da Funçõa de Fibonacci
+	if n==0:	#Critério de parada da função de Fibonacci
 		return 0
-	elif n==1:
+	elif n==1:	#Critério de parada da função de Fibonacci
 		return 1
-	else:
+	else:		#Recursividade.
 		return (fib(n-1)+fib(n-2))
-
-def main():
-    a=13
-    print (fib(a))
