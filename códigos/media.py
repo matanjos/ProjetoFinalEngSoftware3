@@ -1,4 +1,4 @@
-  lista = [ 5.5, 2, 7, 9, 8.9] #cria uma lista contendo as medias de 5 estudantes
+  lista = [ 5.5, 2, 7, 9, 8.9] #cria uma lista contendo as notas de 5 estudantes
   
   
   def maiorNotaTurma(lista):    #define uma função para calcular a maior nota da turma
