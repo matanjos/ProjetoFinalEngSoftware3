@@ -23,6 +23,7 @@ Após realizar a instalação é necessário realizar a configuração do Python
 
 ### Hello world  
 
+Um código muito usado pra ensinar o básico de uma linguagem é o cálculo de uma média. Veja como calcular a média em: [Média em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/c%C3%B3digos/media.py)
 
 ### Comentários  
 
@@ -31,7 +32,7 @@ Os comentários servem para o desenvolvedor explicar o funcionamento do código.
 
 ### Variáveis
 
-As variáveis são utilizadas para armazenar(memorizar) valores que serão adicionados através das linhas de instruções no seu código, armazenando este valor para facilitar o seu uso posteriormente.  
+As variáveis são utilizadas para armazenar(memorizar) valores que serão adicionados através das linhas de instruções no seu código, armazenando este valor para facilitar o seu uso posteriormente. Veja como usar variáveis em Python em: [Variáveis em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Vari%C3%A1veis/Variaveis.md)
 
 
  ### Funções  
