@@ -11,6 +11,7 @@ Neste passo a passo você aprenderá o básico sobre Python. Ele está dividido 
 6. [Funções](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#fun%C3%A7%C3%B5es)  
 7. [Comando condicional](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#comando-condicional)  
 8. [Loops](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#loops)
+9. [Material auxiliar](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Passo_a_passo_Python.md#recomenda%C3%A7%C3%A3o-de-material-auxiliar-)
 
 ### Instalação  
 
@@ -51,7 +52,7 @@ em: [Loops](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops
   
 ### Recomendação de Material Auxiliar :  
   
-  Robocode e CodeCombat : Permite aprender a programar em Python enquanto joga. Neste jogo, você controla o seu boneco indiretamente através de sua programação. Ideal para aprender a programar enquanto se diverte.  
+  Robocode e CodeCombat : Permitem aprender a programar em Python enquanto joga. Ideais para aprender a programar enquanto se diverte.  
   
 
 
