@@ -52,7 +52,7 @@ em: [Loops](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops
   
 ### Recomendação de Material Auxiliar :  
   
-  Robocode e CodeCombat : Permitem aprender a programar em Python enquanto joga. Ideais para aprender a programar enquanto se diverte.  
+  CodeCombat : Permite aprender a programar em Python enquanto joga. Ideal para aprender a programar enquanto se diverte.  
   
 
 
