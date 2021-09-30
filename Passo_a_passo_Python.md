@@ -47,7 +47,12 @@ Um comando condicional controla o fluxo do código ao avaliar uma condição def
 ### Loops  
 
 Um Loop é uma instrução que permite a execução repetida de uma sequência de comandos internos ao loop. A construção de um loop em Python é explicada de forma mais detalhada 
-em: [Loops](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/Loops.md)
+em: [Loops](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/Loops/Loops.md)  
+  
+### Recomendação de Material Auxiliar :  
+  
+  Robocode e CodeCombat : Permite aprender a programar em Python enquanto joga. Neste jogo, você controla o seu boneco indiretamente através de sua programação. Ideal para aprender a programar enquanto se diverte.  
+  
 
 
 
