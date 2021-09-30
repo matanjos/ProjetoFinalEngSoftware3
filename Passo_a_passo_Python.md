@@ -23,7 +23,7 @@ Após realizar a instalação é necessário realizar a configuração do Python
 
 ### Hello world  
 
-Um código muito usado pra ensinar o básico de uma linguagem é o cálculo de uma média. Veja como calcular a média em: [Média em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/c%C3%B3digos/media.py)
+Em boa parte das linguagens de programação as linhas de código devem terminar com um ponto e vírgula (;). No Python isso é opcional. Por outro lado, para a maioria das linguagens a indentação não é obrigatória, mas no caso Python isso é diferente. A indentação é uma característica importante no Python, pois além de promover a legibilidade é essencial para o bom funcionamento do código. Por exemplo, na linguagem C um bloco é delimitado por chaves "{" e "}" enquanto no Python quem vai definir isso é a indentação. Um código muito usado pra ensinar o básico de uma linguagem é o cálculo de uma média. Veja como calcular a média em: [Média em Python](https://github.com/matanjos/ProjetoFinalEngSoftware3/blob/main/c%C3%B3digos/media.py)
 
 ### Comentários  
 
